@@ -1,0 +1,3 @@
+[submodule "lib/r2"]
+	path = lib/r2
+	url = git@github.com:RiversideSC/test_repo2.git
